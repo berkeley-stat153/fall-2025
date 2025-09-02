@@ -10,18 +10,19 @@ subtitle: 'UC Berkeley, Fall 2025'
 
 +++
 
-* **Office Hours**: Tue and Thu 1:30-2:30 pm (Evans 422)
+* **Office Hours**: Tue and Thu 10-11 am (Evans 422)
 * [aditya@stat.berkeley.edu](mailto:aditya@stat.berkeley.edu)
 :::
 
 :::{card}
-:header: **Dohyeong Ki (GSI)**
+:header: **Dohyeong Ki (GSI) and Shana Soohyun Kim (GSI)**
 
 
 +++
 
-* **Office Hours**: Friday 9-10 am, 1-2 pm, 5-6 pm (Evans 446)
+* **Office Hours (Evans 428)**: Monday 5-6 pm (Dohyeong), Tuesday 2:30 - 3:30 pm (Dohyeong), Wednesday 5 -6 pm (Shana), Thursday 2:30 - 3:30 pm (Dohyeong), Friday 2 - 4 pm (Shana) 
 * [dohyeong_ki@berkeley.edu](mailto:dohyeong_ki@berkeley.edu)
+* [shana22@berkeley.edu](mailto:shana22@berkeley.edu)
 
 :::
 

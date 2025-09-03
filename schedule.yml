@@ -6,3 +6,15 @@
           id: '1'
           name: Slides--Introduction and Overview
           href: './LectureOneSlides153248Fall2025PDF.pdf'
+- week: 2
+  days:
+    - date: 'Sept 02'
+      items:
+        - type: 'Lecture'
+          id: '2 Notes'
+          name: Notes--Simple Linear Regression
+          href: "./LectureTwo153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '2 Code'
+          name: Notebook--Simple Linear Regression for Time Series
+          href: "./CodeLectureTwo153248Fall2025.ipynb"	  

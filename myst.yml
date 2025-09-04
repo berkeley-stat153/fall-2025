@@ -24,7 +24,13 @@ project:
     - schedule.mjs
   toc:
     - file: index
-    - file: CodeLectureTwo153248Fall2025
+    - title: Week 2
+      children:
+      - file: CodeLectureTwo153248Fall2025
+    #- title: Week 3
+    #  children:
+    #  - file: some_notebook
+    #  - file: another_notebook
 site:
   template: book-theme
   title: 'Stat 153'

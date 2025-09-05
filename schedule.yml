@@ -21,4 +21,14 @@
         - type: 'Lecture'
           id: '2 Handwritten Notes'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureTwo153248Fall2025.pdf"	  	  
+          href: "./HandwrittenNotesLectureTwo153248Fall2025.pdf"
+    - date: 'Sept 04'
+      items:
+        - type: 'Lecture'
+          id: '3 Notes'
+          name: Notes--Inference for Simple Linear Regression
+          href: "./LectureThree153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '3 Handwritten Notes'
+          name: Handwritten Notes
+          href: "./HandwrittenNotesLectureThree153248Fall2025.pdf"	  

@@ -27,10 +27,10 @@ project:
     - title: Week 2
       children:
       - file: CodeLectureTwo153248Fall2025
-    #- title: Week 3
-    #  children:
-    #  - file: some_notebook
-    #  - file: another_notebook
+    - title: Week 3
+      children:
+      - file: CodeLabOne153248Fall2025
+      - file: CodeLectureFour153248Fall2025
 site:
   template: book-theme
   title: 'Stat 153'

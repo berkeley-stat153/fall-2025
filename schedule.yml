@@ -31,4 +31,31 @@
         - type: 'Lecture'
           id: '3 Handwritten Notes'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureThree153248Fall2025.pdf"	  
+          href: "./HandwrittenNotesLectureThree153248Fall2025.pdf"
+- week: 3
+  days:
+    - date: 'Sept 08'
+      items:
+        - type: 'Lab'
+          id: '1'
+          name: Notes--Fitting simple trends to data using linear regression
+          href: "./CodeLabOne153248Fall2025.ipynb"
+        - type: 'Lab'
+          id: '1 Additional Material'
+          name: Notes--An integration exercise and MLE example
+          href: "./lab1_Shana_solution.pdf"	
+    - date: 'Sept 09'
+      items:
+        - type: 'Lecture'
+          id: '4 Notes'
+          name: Notes--Bayesian Inference for Linear Regression
+          href: "./LectureFour153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '4 Code'
+          name: Notebook--Linear Regression and Uncertainty Quantification
+          href: "./CodeLectureFour153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '4 Handwritten Notes'
+          name: Handwritten Notes
+          href: "./HandwrittenNotesLectureFour153248Fall2025.pdf"
+	  

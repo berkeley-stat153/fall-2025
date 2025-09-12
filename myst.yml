@@ -31,6 +31,7 @@ project:
       children:
       - file: CodeLabOne153248Fall2025
       - file: CodeLectureFour153248Fall2025
+      - file: CodeLectureFive153248Fall2025
 site:
   template: book-theme
   title: 'Stat 153'

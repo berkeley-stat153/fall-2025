@@ -65,11 +65,11 @@
           name: Notes--More on posterior in linear regression, and Nonlinear Regression
           href: "./LectureFive153248Fall2025.pdf"
         - type: 'Lecture'
-          id: '4 Code'
+          id: '5 Code'
           name: Notebook--Standard errors and intervals in linear regression
           href: "./CodeLectureFive153248Fall2025.ipynb"
         - type: 'Lecture'
-          id: '4 In-class Notes'
+          id: '5 In-class Notes'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureFive153248Fall2025.pdf"
 	  

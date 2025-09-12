@@ -19,7 +19,7 @@
           name: Notebook--Simple Linear Regression for Time Series
           href: "./CodeLectureTwo153248Fall2025.ipynb"
         - type: 'Lecture'
-          id: '2 In-class Notes'
+          id: '2 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureTwo153248Fall2025.pdf"
     - date: 'Sept 04'
@@ -29,7 +29,7 @@
           name: Notes--Inference for Simple Linear Regression
           href: "./LectureThree153248Fall2025.pdf"
         - type: 'Lecture'
-          id: '3 In-class Notes'
+          id: '3 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureThree153248Fall2025.pdf"
 - week: 3
@@ -55,7 +55,7 @@
           name: Notebook--Linear Regression and Uncertainty Quantification
           href: "./CodeLectureFour153248Fall2025.ipynb"
         - type: 'Lecture'
-          id: '4 In-class Notes'
+          id: '4 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureFour153248Fall2025.pdf"
     - date: 'Sept 11'
@@ -69,7 +69,7 @@
           name: Notebook--Standard errors and intervals in linear regression
           href: "./CodeLectureFive153248Fall2025.ipynb"
         - type: 'Lecture'
-          id: '5 In-class Notes'
+          id: '5 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureFive153248Fall2025.pdf"
 	  

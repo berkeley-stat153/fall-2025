@@ -72,4 +72,26 @@
           id: '5 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureFive153248Fall2025.pdf"
+- week: 4
+  days:
+    - date: 'Sept 15'
+      items:
+        - type: 'Lab'
+          id: '2'
+          name: Notes--Linear regression details
+          href: "./CodeLabTwo153248Fall2025.ipynb"
+    - date: 'Sept 16'
+      items:
+        - type: 'Lecture'
+          id: '6 Notes'
+          name: Notes-- NonLinear Regression
+          href: "./LectureSix153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '6 Code'
+          name: Notebook--Nonlinear Regression
+          href: "./CodeLectureSix153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '6 In-class'
+          name: Handwritten Notes
+          href: "./HandwrittenNotesLectureSix153248Fall2025.pdf"
 	  

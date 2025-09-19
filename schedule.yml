@@ -94,4 +94,18 @@
           id: '6 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureSix153248Fall2025.pdf"
+    - date: 'Sept 18'
+      items:
+        - type: 'Lecture'
+          id: '7 Notes'
+          name: Notes--Sinusoidal Model
+          href: "./LectureSeven153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '7 Code'
+          name: Notebook--Sinusoidal Model (applied to the Sunspots Dataset)
+          href: "./CodeLectureSeven153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '7 In-class'
+          name: Handwritten Notes
+          href: "./HandwrittenNotesLectureSeven153248Fall2025.pdf"
 	  

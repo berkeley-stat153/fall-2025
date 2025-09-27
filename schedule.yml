@@ -134,4 +134,18 @@
           id: '1'
           name: Audio Middle C file
           href: "./Hear Piano Note - Middle C.mp3"	  
+    - date: 'Sept 25'
+      items:
+        - type: 'Lecture'
+          id: '9 Notes'
+          name: Notes--More on Sinusoidal Models
+          href: "./LectureNine153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '9 Code'
+          name: Notebook--More on Sinusoidal Models
+          href: "./CodeLectureNine153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '9 In-class'
+          name: Handwritten Notes
+          href: "./HandwrittenNotesLectureNine153248Fall2025.pdf"
 	  

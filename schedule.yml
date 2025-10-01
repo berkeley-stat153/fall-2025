@@ -148,4 +148,25 @@
           id: '9 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureNine153248Fall2025.pdf"
-	  
+- week: 6
+  days:
+    - date: 'Sept 29'
+      items:
+        - type: 'Lab'
+          id: '4'
+          name: Notes--Change-point Model
+          href: "./CodeLabFour153248Fall2025.ipynb"
+    - date: 'Sept 30'
+      items:
+        - type: 'Lecture'
+          id: '10 Notes'
+          name: Notes--High-dimensional Linear Regression
+          href: "./LectureTen153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '10 Code'
+          name: Notebook--Change of Slope Models and Regularization
+          href: "./CodeLectureTen153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '10 In-class'
+          name: Handwritten Notes
+          href: "./HandwrittenNotesLectureTen153248Fall2025.pdf"

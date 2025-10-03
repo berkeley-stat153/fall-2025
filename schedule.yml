@@ -170,3 +170,17 @@
           id: '10 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureTen153248Fall2025.pdf"
+    - date: 'Oct 02'
+      items:
+        - type: 'Lecture'
+          id: '11 Notes'
+          name: Notes--Ridge and LASSO regularization
+          href: "./LectureEleven153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '11 Code'
+          name: Notebook--Ridge and LASSO Regularization
+          href: "./CodeLectureEleven153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '11 In-class'
+          name: Handwritten Notes
+          href: "./HandwrittenNotesLectureEleven153248Fall2025.pdf"	  

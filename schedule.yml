@@ -183,4 +183,27 @@
         - type: 'Lecture'
           id: '11 In-class'
           name: Handwritten Notes
-          href: "./HandwrittenNotesLectureEleven153248Fall2025.pdf"	  
+          href: "./HandwrittenNotesLectureEleven153248Fall2025.pdf"
+- week: 7
+  days:
+    - date: 'Oct 06'
+      items:
+        - type: 'Lab'
+          id: '5'
+          name: Notes--High-dimensional regression for change-points
+          href: "./CodeLabFive153248Fall2025.ipynb"
+    - date: 'Oct 07'
+      items:
+        - type: 'Lecture'
+          id: '12 Notes'
+          name: Notes--Bayesian Regularization
+          href: "./LectureTwelve153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '12 Code'
+          name: Notebook--Bayesian Regularization
+          href: "./CodeLectureTwelve153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '12 In-class'
+          name: Handwritten Notes
+          href: "./HandwrittenNotesLectureTwelve153248Fall2025.pdf"
+	  

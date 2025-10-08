@@ -46,7 +46,11 @@ project:
       children:
       - file: CodeLabFour153248Fall2025
       - file: CodeLectureTen153248Fall2025
-      - file: CodeLectureEleven153248Fall2025      
+      - file: CodeLectureEleven153248Fall2025
+    - title: Week 7
+      children:
+      - file: CodeLabFive153248Fall2025
+      - file: CodeLectureTwelve153248Fall2025
 site:
   template: book-theme
   title: 'Stat 153'

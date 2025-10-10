@@ -206,4 +206,18 @@
           id: '12 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureTwelve153248Fall2025.pdf"
+    - date: 'Oct 09'
+      items:
+        - type: 'Lecture'
+          id: '13 Notes'
+          name: Notes--More on Bayesian Regularization
+          href: "./LectureThirteen153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '13 Code'
+          name: Notebook--More on Bayesian Regularization
+          href: "./CodeLectureThirteen153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '13 In-class'
+          name: Handwritten Notes
+          href: "./HandwrittenNotesLectureThirteen153248Fall2025.pdf"
 	  

@@ -52,7 +52,7 @@ project:
       - file: CodeLabFive153248Fall2025
       - file: CodeLectureTwelve153248Fall2025
       - file: CodeLectureThirteen153248Fall2025
-    - title: Week 
+    - title: Week 8
       children:
       - file: CodeLabSix153248Fall2025
       - file: CodeLectureFourteen153248Fall2025      

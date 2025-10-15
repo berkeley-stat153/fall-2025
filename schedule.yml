@@ -220,4 +220,26 @@
           id: '13 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureThirteen153248Fall2025.pdf"
+- week: 8
+  days:
+    - date: 'Oct 13'
+      items:
+        - type: 'Lab'
+          id: '6'
+          name: Notes-Bayesian Regularization
+          href: "./CodeLabSix153248Fall2025.ipynb"
+    - date: 'Oct 14'
+      items:
+        - type: 'Lecture'
+          id: '14 Notes'
+          name: Notes--Three High-dimensional Models
+          href: "./LectureFourteen153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '14 Code'
+          name: Notebook--Three High-Dimensional Models
+          href: "./CodeLectureFourteen153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '14 In-class'
+          name: Handwritten Notes
+          href: "./HandwrittenNotesLectureFourteen153248Fall2025.pdf"
 	  

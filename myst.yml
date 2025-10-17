@@ -55,7 +55,8 @@ project:
     - title: Week 8
       children:
       - file: CodeLabSix153248Fall2025
-      - file: CodeLectureFourteen153248Fall2025      
+      - file: CodeLectureFourteen153248Fall2025
+      - file: CodeLectureFifteen153248Fall2025            
 site:
   template: book-theme
   title: 'Stat 153'

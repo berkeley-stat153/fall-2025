@@ -43,7 +43,7 @@
         - type: 'Lab'
           id: '1 Additional Material'
           name: Notes--An integration exercise and MLE example
-          href: "./lab1_Shana_solution.pdf"	
+          href: "./lab1_Shana_solution.pdf"
     - date: 'Sept 09'
       items:
         - type: 'Lecture'
@@ -133,7 +133,7 @@
         - type: 'Dataset'
           id: '1'
           name: Audio Middle C file
-          href: "./Hear Piano Note - Middle C.mp3"	  
+          href: "./Hear Piano Note - Middle C.mp3"
     - date: 'Sept 25'
       items:
         - type: 'Lecture'
@@ -263,7 +263,7 @@
         - type: 'Lab'
           id: '7'
           name: Midterm review
-	  href: ""
+          href: ""
     - date: 'Oct 21'
       items:
         - type: 'Lecture'
@@ -284,4 +284,4 @@
           id: '16 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureSixteen153248Fall2025.pdf"
-	  
+      

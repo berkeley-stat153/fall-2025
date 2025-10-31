@@ -286,13 +286,13 @@
           href: "./HandwrittenNotesLectureSixteen153248Fall2025.pdf"
 - week: 10
   days:
-    - date: 'Oct 28'
+    - date: 'Oct 27'
       items:
         - type: 'Lab'
           id: '8'
           name: Notes-Sunspots Prediction
           href: "./CodeLabSeven153248Fall2025.ipynb"
-    - date: 'Oct 30'
+    - date: 'Oct 28'
       items:
         - type: 'Lecture'
           id: '17 Notes'
@@ -306,3 +306,17 @@
           id: '17 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureSeventeen153248Fall2025.pdf"
+    - date: 'Oct 30'
+      items:
+        - type: 'Lecture'
+          id: '18 Notes'
+          name: Notes--Estimation and Prediction for AR(p) models
+          href: "./LectureEighteen153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '18 Code'
+          name: Notebook--Estimation and Prediction for AR(p) models
+          href: "./CodeLectureEighteen153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '18 In-class'
+          name: Handwritten Notes
+          href: "./HandwrittenNotesLectureEighteen153248Fall2025.pdf"

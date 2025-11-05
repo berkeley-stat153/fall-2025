@@ -320,3 +320,21 @@
           id: '18 In-class'
           name: Handwritten Notes
           href: "./HandwrittenNotesLectureEighteen153248Fall2025.pdf"
+- week: 11
+  days:
+    - date: 'Nov 03'
+      items:
+        - type: 'Lab'
+          id: '9'
+          name: Notes-AR models: estimation, inference and prediction
+          href: "./CodeLabNine153248Fall2025.ipynb"
+    - date: 'Nov 04'
+      items:
+        - type: 'Lecture'
+          id: '19 Notes'
+          name: Notes--Stationarity
+          href: "./LectureNineteen153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '19 In-class'
+          name: Handwritten Notes
+          href: "./HandwrittenNotesLectureNineteen153248Fall2025.pdf"

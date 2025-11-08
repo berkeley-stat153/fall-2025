@@ -326,15 +326,15 @@
       items:
         - type: 'Lab'
           id: '9'
-          name: Notes-AR models: estimation, inference and prediction
+          name: "Notes-AR models: estimation, inference and prediction"
           href: "./CodeLabNine153248Fall2025.ipynb"
     - date: 'Nov 04'
       items:
         - type: 'Lecture'
           id: '19 Notes'
-          name: Notes--Stationarity
+          name: "Notes--Stationarity"
           href: "./LectureNineteen153248Fall2025.pdf"
         - type: 'Lecture'
           id: '19 In-class'
-          name: Handwritten Notes
+          name: "Handwritten Notes"
           href: "./HandwrittenNotesLectureNineteen153248Fall2025.pdf"

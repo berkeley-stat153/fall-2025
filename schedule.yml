@@ -338,3 +338,17 @@
           id: '19 In-class'
           name: "Handwritten Notes"
           href: "./HandwrittenNotesLectureNineteen153248Fall2025.pdf"
+    - date: 'Nov 06'
+      items:
+        - type: 'Lecture'
+          id: '20 Notes'
+          name: "Notes--Stationarity of AR models"
+          href: "./LectureTwenty153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '20 Code'
+          name: Notebook--AR(p) models and stationarity
+          href: "./CodeLectureTwenty153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '20 In-class'
+          name: "Handwritten Notes"
+          href: "./HandwrittenNotesLectureTwenty153248Fall2025.pdf"

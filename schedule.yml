@@ -226,7 +226,7 @@
       items:
         - type: 'Lab'
           id: '6'
-          name: Notes-Bayesian Regularization
+          name: Notebook-Bayesian Regularization
           href: "./CodeLabSix153248Fall2025.ipynb"
     - date: 'Oct 14'
       items:
@@ -290,7 +290,7 @@
       items:
         - type: 'Lab'
           id: '8'
-          name: Notes-Sunspots Prediction
+          name: Notebook-Sunspots Prediction
           href: "./CodeLabSeven153248Fall2025.ipynb"
     - date: 'Oct 28'
       items:
@@ -326,7 +326,7 @@
       items:
         - type: 'Lab'
           id: '9'
-          name: "Notes-AR models: estimation, inference and prediction"
+          name: "Notebook-AR models: estimation, inference and prediction"
           href: "./CodeLabNine153248Fall2025.ipynb"
     - date: 'Nov 04'
       items:
@@ -352,3 +352,25 @@
           id: '20 In-class'
           name: "Handwritten Notes"
           href: "./HandwrittenNotesLectureTwenty153248Fall2025.pdf"
+- week: 12
+  days:
+    - date: 'Nov 10'
+      items:
+        - type: 'Lab'
+          id: '10'
+          name: "Notebook-Causal Stationary AR Models"
+          href: "./CodeLabTen153248Fall2025.ipynb"
+    - date: 'Nov 13'
+      items:
+        - type: 'Lecture'
+          id: '21 Notes'
+          name: "Notes--MA(q), Sample ACF and the Box-Jenkins Approach"
+          href: "./LectureTwentyOne153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '21 Code'
+          name: Notebook--MA models and ARIMA modeling
+          href: "./CodeLectureTwentyOne153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '21 In-class'
+          name: "Handwritten Notes"
+          href: "./HandwrittenNotesLectureTwentyOne153248Fall2025.pdf"

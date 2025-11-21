@@ -396,3 +396,17 @@
           id: '22 In-class'
           name: "Handwritten Notes"
           href: "./HandwrittenNotesLectureTwentyTwo153248Fall2025.pdf"
+    - date: 'Nov 20'
+      items:
+        - type: 'Lecture'
+          id: '23 Notes'
+          name: "Notes--SARIMA models"
+          href: "./LectureTwentyThree153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '23 Code'
+          name: Notebook--SARIMA modeling
+          href: "./CodeLectureTwentyThree153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '23 In-class'
+          name: "Handwritten Notes"
+          href: "./HandwrittenNotesLectureTwentyThree153248Fall2025.pdf"

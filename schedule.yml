@@ -410,3 +410,25 @@
           id: '23 In-class'
           name: "Handwritten Notes"
           href: "./HandwrittenNotesLectureTwentyThree153248Fall2025.pdf"
+- week: 14
+  days:
+    - date: 'Nov 24'
+      items:
+        - type: 'Lab'
+          id: '12'
+          name: "Notebook-MA(1) parameter estimation"
+          href: "./CodeLabTwelve153248Fall2025.ipynb"
+    - date: 'Nov 25'
+      items:
+        - type: 'Lecture'
+          id: '24 Notes'
+          name: "Notes--Nonlinear AutoRegression"
+          href: "./LectureTwentyFour153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '24 Code'
+          name: Notebook--PyTorch Model Fitting and Nonlinear AutoRegression 
+          href: "./CodeLectureTwentyFour153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '24 In-class'
+          name: "Handwritten Notes"
+          href: "./HandwrittenNotesLectureTwentyFour153248Fall2025.pdf"

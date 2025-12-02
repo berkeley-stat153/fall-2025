@@ -432,3 +432,11 @@
           id: '24 In-class'
           name: "Handwritten Notes"
           href: "./HandwrittenNotesLectureTwentyFour153248Fall2025.pdf"
+- week: 15
+  days:
+    - date: 'Dec 01'
+      items:
+        - type: 'Lab'
+          id: '13'
+          name: "Notebook--More on Model Fitting using PyTorch"
+          href: "./CodeLabThirteen153248Fall2025.ipynb"

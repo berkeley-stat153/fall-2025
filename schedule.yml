@@ -440,3 +440,13 @@
           id: '13'
           name: "Notebook--More on Model Fitting using PyTorch"
           href: "./CodeLabThirteen153248Fall2025.ipynb"
+    - date: 'Dec 02'
+      items:
+        - type: 'Lecture'
+          id: '25 Notes'
+          name: "Notes--Recurrent Neural Networks"
+          href: "./LectureTwentyFive153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '25 In-class'
+          name: "Handwritten Notes"
+          href: "./HandwrittenNotesLectureTwentyFive153248Fall2025.pdf"

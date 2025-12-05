@@ -85,6 +85,7 @@ project:
     - title: Week 15
       children:
       - file: CodeLabThirteen153248Fall2025.ipynb
+      - file: CodeLectureTwentySix153248Fall2025.ipynb      
 site:
   template: book-theme
   title: 'Stat 153'

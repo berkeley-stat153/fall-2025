@@ -450,3 +450,17 @@
           id: '25 In-class'
           name: "Handwritten Notes"
           href: "./HandwrittenNotesLectureTwentyFive153248Fall2025.pdf"
+    - date: 'Dec 04'
+      items:
+        - type: 'Lecture'
+          id: '26 Notes'
+          name: "Notes--AR to LSTM"
+          href: "./LectureTwentySix153248Fall2025.pdf"
+        - type: 'Lecture'
+          id: '26 Code'
+          name: Notebook--LSTM 
+          href: "./CodeLectureTwentySix153248Fall2025.ipynb"
+        - type: 'Lecture'
+          id: '26 In-class'
+          name: "Handwritten Notes"
+          href: "./HandwrittenNotesLectureTwentySix153248Fall2025.pdf"
